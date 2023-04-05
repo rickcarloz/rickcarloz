@@ -6,6 +6,9 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcarloz&show_icons=true&theme=dracula)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickcarloz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologia que uso no meu dia
 
 <div style="display: inline_block"><br/>
